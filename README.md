@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Email adresse](ben.meziani.pro@gmail.com)
+- 📫 How to reach me: ...Email adresse: ben.meziani.pro@gmail.com, Phone: +336 99 54 80 46
 - 😄 Pronouns: ...H/Him
 - ⚡ Fun fact: ... I am french!
 -->
