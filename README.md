@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...Email adresse: ben.meziani.pro@gmail.com, Phone: +336 99 54 80 46
 - 😄 Pronouns: ...H/Him
 - ⚡ Fun fact: ... I am french!
--->
